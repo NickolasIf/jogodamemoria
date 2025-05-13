@@ -1,5 +1,5 @@
 body {
-    background-image: url(fundo.jpg);
+    background-image: url(fort2.png);
     background-repeat: no-repeat; 
     background-size: 100%;
 
@@ -8,135 +8,139 @@ body {
 
 h1 {
     text-align: center;
-    font-style: italic;
+    font-style: initial;
     font-weight: bolder;
+    font-size: 75px;
+    color: chartreuse;
 }
 
 h3 {
     text-align: center;
     font-style: initial;
+    font-size: 50px;
+    color: deeppink;
 }
 
 #box {
   margin-left: 29%;
 }
 .main {
-  background-image: url(zurg.jpg);
+  background-image:  url(peixe.png);
   background-repeat:no-repeat;
   background-size: 100%;
   width: 100px;
   height: 100px;
   position:relative;
   transform-style: preserve-3d;
-  border: solid black 2px;
+  border: solid rgb(234, 0, 255) 2px;
   margin: 10px;
 
 }
 .main1 {
-  background-image: url(betty.jpg);
+  background-image: url(finn.png);
   background-repeat:no-repeat;
   background-size: 100%;
   width: 100px;
   height: 100px;
   position:relative;
   transform-style: preserve-3d;
-  border: solid black 2px;
+  border: solid rgb(234, 0, 255) 2px;
   margin: 10px;
 
 }
 .main2 {
-  background-image: url(buzz.jpg);
+  background-image: url(femea.png);
   background-repeat:no-repeat;
   background-size: 100%;
   width: 100px;
   height: 100px;
   position:relative;
   transform-style: preserve-3d;
-  border: solid black 2px;
+  border: solidrgb(234, 0, 255)black 2px;
   margin: 10px;
 
 }
 .main3 {
-  background-image: url(forky.jpg);
+  background-image: url(messi.png);
   background-repeat:no-repeat;
   background-size: 100%;
   width: 100px;
   height: 100px;
   position:relative;
   transform-style: preserve-3d;
-  border: solid black 2px;
+  border: solid rgb(234, 0, 255) 2px;
   margin: 10px;
 
 }
 .main4 {
-  background-image: url(jessie.jpg);
+  background-image: url(amar.png);
   background-repeat:no-repeat;
   background-size: 100%;
   width: 100px;
   height: 100px;
   position:relative;
   transform-style: preserve-3d;
-  border: solid black 2px;
+  border: solid rgb(234, 0, 255) 2px;
   margin: 10px;
 
 }
 .main5 {
-  background-image: url(porco.jpg);
+  background-image: url(careca.png);
   background-repeat:no-repeat;
   background-size: 100%;
   width: 100px;
   height: 100px;
   position:relative;
   transform-style: preserve-3d;
-  border: solid black 2px;
+  border: solid rgb(234, 0, 255) 2px;
   margin: 10px;
 
 }
 .main6 {
-  background-image: url(rex.jpg);
+  background-image: url(gordo.png);
   background-repeat:no-repeat;
   background-size: 100%;
   width: 100px;
   height: 100px;
   position:relative;
   transform-style: preserve-3d;
-  border: solid black 2px;
+  border: solid rgb(234, 0, 255)2px;
   margin: 10px;
 
 }
 .main7 {
-  background-image: url(slinky.jpg);
+  background-image: url(ngg.png);
   background-repeat:no-repeat;
   background-size: 100%;
   width: 100px;
   height: 100px;
   position:relative;
   transform-style: preserve-3d;
-  border: solid black 2px;
+  border: solid rgb(234, 0, 255) 2px;
   margin: 10px;
 
 }
 .main8 {
-  background-image: url(woody.jpg);
+  background-image: url(feia.png);
   background-repeat:no-repeat;
   background-size: 100%;
   width: 100px;
   height: 100px;
   position:relative;
   transform-style: preserve-3d;
-  border: solid black 2px;
+  border: solid rgb(234, 0, 255) 2px;
   margin: 10px;
 
 }
 .main9 {
-  background-image: url(zurg.jpg);
+  background-image: url(a.png);
   background-repeat:no-repeat;
   background-size: 100%;
   width: 100px;
   height: 100px;
   position:relative;
   transform-style: preserve-3d;
-  border: solid black 2px;
+  border: solid rgb(234, 0, 255) 2px;
   margin: 10px;
 
 }
@@ -168,9 +172,7 @@ h3 {
   .posicao{
     position: center;
     width:   2150px; 
-    height:  100%;
-    max-width:  2150px; 
+    height:  500px;
+    max-width:  100%; 
     max-height: 100%;
 }
-
-
